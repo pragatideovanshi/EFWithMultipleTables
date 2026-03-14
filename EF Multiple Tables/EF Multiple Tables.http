@@ -1,0 +1,6 @@
+@EF_Multiple_Tables_HostAddress = http://localhost:5198
+
+GET {{EF_Multiple_Tables_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
